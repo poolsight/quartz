@@ -6,8 +6,6 @@ title: Home
 
 **View from the pool, Insight for life.**
 
-수영장에서 바라본 세상, 삶을 위한 통찰을 제공합니다.
-
 ---
 
 ## 카테고리
